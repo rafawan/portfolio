@@ -1,11 +1,13 @@
   body {background-color:#407769;}
   p {color:#ffffff;}
+
   h1{
     color:#ffffff;
     text-align: center;
   }
+
   h2, h3, h4, h5, h6 {
-    color:#ffffff;
+    color:#000000;
   }
 
   ul {
